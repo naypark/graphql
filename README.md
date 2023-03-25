@@ -24,3 +24,6 @@
 1. run `npm install—save express` to install packages needed
 2. run `npm start`
 - if error, run `node main.js`
+
+
+manual link : https://parknayeon.tistory.com/6#comment14821740
